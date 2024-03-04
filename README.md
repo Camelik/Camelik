@@ -1,11 +1,11 @@
 ![banner](https://github.com/Camelik/Camelik/assets/42066908/fd67a9bf-5e13-4c0e-9a19-ee63f02484ad)
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kamil-sankowski/"><img width="32px" alt="Linkedin" title="Linkedin" src="https://i.imgur.com/kemdXHc.png"/></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/kamil-sankowski/"><img width="32px" alt="Linkedin" title="Linkedin" src="https://i.imgur.com/kemdXHc.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:kamil.sankowski@gmail.com"><img width="50px" alt="Send Mail" title="Send me mail" src="https://i.imgur.com/LuJkcTM.png"/></a>
+  <a target="_blank" rel="noopener noreferrer" href="mailto:kamil.sankowski@gmail.com"><img width="50px" alt="Send Mail" title="Send me mail" src="https://i.imgur.com/LuJkcTM.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://sankowski.dev" alt="Portfolio" title="My portfolio"><img width="32px" src="https://i.imgur.com/TSaF1FM.png"/></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://sankowski.dev" alt="Portfolio" title="My portfolio"><img width="32px" src="https://i.imgur.com/TSaF1FM.png"/></a>
 </p>
 
 # 👋 Hello there!
