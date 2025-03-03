@@ -13,7 +13,7 @@
 
 ## About me 💻
 
-I’m 20 years old, a fullstack developer. I’m fascinated by application development from design to finish product, automating my workflows and reading lots of articles about the latest technologies. I focus on 
+I’m 21 years old, a fullstack developer. I’m fascinated by application development from design to finish product, automating my workflows and reading lots of articles about the latest technologies. I focus on 
 maintainability, performance, and security with all of my projects and try to follow a lot of best practices.
 
 ## Some of my known technologies ⚒️
